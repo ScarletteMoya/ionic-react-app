@@ -1,0 +1,14 @@
+.ion-padding {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+h2 {
+  color: #14b6c2bb;
+}
+
+p {
+  margin-top: 10px;
+  font-size: 14px;
+}
